@@ -1,5 +1,24 @@
-A Calendar Software 1.1 Views
-		1.1.1  Monthly view: show all days in a month, and event snippet for each day 
-		1.1.2  Weekly view: show all days in a week, and event snippet for each day 
-		1.1.3  Daily view: show all events in a day, sorted by their starting time 
-		1.1.4  Agenda view (optional): show all events in future as a list 
+GrowFlow: A Farming/Crop Managment Software
+	1. Farm Mapping and Geolocation
+		1.1  GPS-based field mapping and boundaries
+		1.2  Managment zones creation
+		1.3  Soil type identification and mapping
+		1.4  
+	2. Crop Planning and Scheduling
+		2.1  Crop rotation planning
+		2.2  Planting/harvesting schedule management
+		2.3  Machinery/equipment scheduling
+		2.4  Input materials managment
+		2.5  
+	3. Weather and Climate Monitoring
+		3.1  Real-time weather updates/forecasts
+		3.2  Local weather station integration
+		3.3  Notifications based on weather
+		3.4  Climate change impact analyzation
+		3.5  
+	4. Weather and Climate Monitoring
+		4.1  
+		4.2  
+		4.3  
+		4.4  
+		4.5  
