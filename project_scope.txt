@@ -27,16 +27,3 @@ GrowFlow: A Farming/Crop Managment Software
 		5.2  Budgeting list of water, feed, pesticides, etc.
 		5.3  Real-time inventory traking and alerts
 		5.4  Input materials ordering and supplier managment
-		5.5 
-	6. Weather and Climate Monitoring
-		6.1  
-		6.2  
-		6.3  
-		6.4  
-		6.5 
-	7. Weather and Climate Monitoring
-		7.1  
-		7.2  
-		7.3  
-		7.4  
-		7.5 
