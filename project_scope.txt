@@ -3,25 +3,21 @@ GrowFlow: A Farming/Crop Managment Software
 		1.1  GPS-based field mapping and boundaries
 		1.2  Managment zones creation
 		1.3  Soil type identification and mapping
-		1.4  
 	2. Crop Planning and Scheduling
 		2.1  Crop rotation planning
 		2.2  Planting/harvesting schedule management
 		2.3  Machinery/equipment scheduling
 		2.4  Input materials managment
-		2.5  
 	3. Weather and Climate Monitoring
 		3.1  Real-time weather updates/forecasts
 		3.2  Local weather station integration
 		3.3  Notifications based on weather
 		3.4  Climate change impact analyzation
-		3.5  
 	4. Water - Sprinkler System/Schedule Managment
 		4.1  Sprinkler system water usage tracking and effieciency analysis
 		4.2  Sprinkler system schedule managment
 		4.3  Drainage system management
 		4.4  Irrigation scheduling and automation
-		4.5  
 	5. Budgeting, Inventory, and Supply Chain Management
 		5.1  Water bill tracking
 		5.2  Budgeting list of water, feed, pesticides, etc.
